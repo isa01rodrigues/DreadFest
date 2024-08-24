@@ -1,0 +1,225 @@
+
+@media (max-width: 1000px) {
+
+    header {
+        width: 100%;
+    max-width: 100%;
+    }
+
+   
+
+    .bannerLogo img {
+        width: 90%;
+        max-width: 90%;;
+    }
+
+    /***********************************/
+    .programacao {
+        width: 90%;
+        max-width: 90%;
+    }
+
+    .programacao div{
+        padding-left: 2%;
+    }
+
+    .programacao img {
+        display: none;
+    }
+
+    .textosProg h2 {
+        font-size: 1.5em;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .textosProg ul {
+        padding-top: 5%;}
+
+    /***************************************/
+    .quemSomos {
+        margin-top: -3%;
+        text-align: center;
+        padding-left: 1%;
+    }
+
+    .quemSomos h1{
+        padding-top: 10%;
+    }
+    .quemSomos p {
+        text-align: start;
+        font-size: 1.1em;
+      
+        padding-top: 2%;
+    }
+
+    /*********************************/
+    .cont-02 {
+        padding-left: 7%;
+        padding-top: 10%;
+    }
+
+    .comtado {
+        width: 100%;
+        max-width: 100%;
+        height: 229px;
+    }
+
+    .relogio {
+        display: flex;
+        flex-direction: column;
+        width: 50vh;
+        width: 90%;
+        max-width: 90%;
+    }
+
+    .relogio div {
+        height: 170px;
+        width: 130px;
+
+    }
+
+    /*************************/
+
+    .ingresso {
+        float: right;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .conteinerWeb{
+        padding-left: 1%;
+    }
+
+    
+
+
+    /******************/
+    .banner {
+        display: none;
+    }
+
+    /**************/
+    .video-container{
+        width: 90vh;
+        padding-left: 15%;
+    }
+
+    .redeSoc{
+        width: 90%;
+        padding:6px;
+        padding-left: 6%;
+    }
+}
+
+
+
+
+/*********************************************************/
+@media  (max-width:600px) {
+
+    header {
+        width: 100%;
+    max-width: 100%;
+    }
+    .bannerLogo img {
+        width: 90%;
+        max-width: 90%;;
+    }
+
+    /***********************************/
+    .programacao {
+        width: 90%;
+        max-width: 90%;
+    }
+
+    .programacao img {
+        display: none;
+    }
+
+    .textosProg h2 {
+        font-size: 1.5em;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .textosProg ul {
+        padding-top: 5%;}
+
+    /***************************************/
+    .quemSomos {
+        margin-top: -3%;
+        text-align: center;
+        padding-left: 1%;
+    }
+
+    .quemSomos h1{
+        padding-top: 10%;
+    }
+    .quemSomos p {
+        text-align: start;
+        font-size: 1.1em;
+        padding-top: 2%;
+    }
+
+    /*********************************/
+    .cont-02 {
+        padding-left: 7%;
+        padding-top: 10%;
+    }
+
+    .comtado {
+        width: 100%;
+        max-width: 100%;
+        height: 229px;
+    }
+
+    .relogio {
+        display: flex;
+        flex-direction: column;
+        width: 50vh;
+        width: 90%;
+        max-width: 90%;
+    }
+
+    .relogio div {
+        height: 100%;
+    width: 100%;
+
+    }
+
+    /*************************/
+
+    .ingresso {
+        float: right;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .conteinerWeb{
+        padding-left: 1%;
+    }
+
+    .ingresso img {
+        display: none;
+    }
+
+
+    /******************/
+    .banner {
+        display: none;
+    }
+
+    /**************/
+    .video-container{
+        width: 40vh;
+        padding-left: 10%;}
+
+    .redeSoc{
+        width: 90%;
+        padding:6px;
+        padding-left: 6%;
+    }
+}
+
+/**************tABLETE***************/
